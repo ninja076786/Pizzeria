@@ -1,5 +1,5 @@
 var menu_array=["Neapolitan Pizza","Chicago Pizza","New York-Style Pizza","Sicilian Pizza","Greek Pizza","California Pizza"]
-function getmenu(){
+function get__menu(){
     var htmldata;
     htmldata="<ol class='menulist'>";
     menu_array.sort();
